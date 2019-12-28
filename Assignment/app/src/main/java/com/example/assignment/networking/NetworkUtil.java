@@ -1,4 +1,4 @@
-package com.example.assingment.networking;
+package com.example.assignment.networking;
 
 import android.content.Context;
 import android.graphics.Color;

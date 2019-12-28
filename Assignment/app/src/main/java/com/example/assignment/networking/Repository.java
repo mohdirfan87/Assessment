@@ -1,8 +1,8 @@
-package com.example.assingment.networking;
+package com.example.assignment.networking;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.assingment.models.Facts;
+import com.example.assignment.models.Facts;
 
 import retrofit2.Call;
 import retrofit2.Callback;

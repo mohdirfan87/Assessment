@@ -1,4 +1,4 @@
-package com.example.assingment.adapter;
+package com.example.assignment.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.assingment.R;
-import com.example.assingment.models.Rows;
+import com.example.assignment.R;
+import com.example.assignment.models.Rows;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

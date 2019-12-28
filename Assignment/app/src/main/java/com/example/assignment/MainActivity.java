@@ -1,4 +1,4 @@
-package com.example.assingment;
+package com.example.assignment;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
@@ -6,8 +6,8 @@ import android.os.Bundle;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.example.assingment.networking.NetworkUtil;
-import com.example.assingment.ui.facts.fragments.FactsFragment;
+import com.example.assignment.networking.NetworkUtil;
+import com.example.assignment.ui.facts.fragments.FactsFragment;
 
 public class MainActivity extends AppCompatActivity implements FactsFragment.FragmentCallback {
     private TextView toolbar_title;

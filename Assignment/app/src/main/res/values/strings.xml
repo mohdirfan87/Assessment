@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assingment</string>
+    <string name="app_name">Assignment</string>
     <string name="title">Facts</string>
     <string name="description">Description</string>
     <string name="image_description">Loading image from server</string>
@@ -9,16 +9,5 @@
 
     <string name="empty_title">--Empty Title--</string>
     <string name="empty_desc">--Empty Description--</string>
-    <string name="test_title">
-        The purpose of this exercise is to assess candidate developer’s Android technical proficiency, coding knowledge and
-style. The exercise involves build a “proof of concept” app which consumes a REST service and displays photos with
-headings and descriptions.
-    </string>
-    <string name="test_des">
-        The purpose of this exercise is to assess candidate developer’s Android technical proficiency, coding knowledge and
-style. The exercise involves build a “proof of concept” app which consumes a REST service and displays photos with
-headings and descriptions. The exercise will be evaluated on coding style, understanding of programming concepts,
-choice of techniques, quality of the final product and also by the developer’s process, as indicated by the trail of git
-commits.
-    </string>
+
 </resources>

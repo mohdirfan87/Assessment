@@ -1,4 +1,4 @@
-package com.example.assingment.networking;
+package com.example.assignment.networking;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

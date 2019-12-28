@@ -1,4 +1,4 @@
-package com.example.assingment.models;
+package com.example.assignment.models;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.assingment.ui.facts.fragments;
+package com.example.assignment.ui.facts.fragments;
 
 import androidx.test.espresso.Espresso;
 import androidx.test.espresso.IdlingRegistry;
@@ -7,10 +7,10 @@ import androidx.test.espresso.matcher.RootMatchers;
 import androidx.test.espresso.matcher.ViewMatchers;
 import androidx.test.rule.ActivityTestRule;
 
-import com.example.assingment.MainActivity;
-import com.example.assingment.R;
-import com.example.assingment.networking.NetworkUtil;
-import com.example.assingment.res_idle.EspressoIdlingResource;
+import com.example.assignment.MainActivity;
+import com.example.assignment.R;
+import com.example.assignment.networking.NetworkUtil;
+import com.example.assignment.res_idle.EspressoIdlingResource;
 
 import org.hamcrest.Matchers;
 import org.junit.After;

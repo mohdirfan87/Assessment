@@ -1,4 +1,4 @@
-package com.example.assingment.res_idle;
+package com.example.assignment.res_idle;
 
 import androidx.test.espresso.IdlingResource;
 

@@ -1,4 +1,4 @@
-package com.example.assingment.models;
+package com.example.assignment.models;
 
 public class Rows {
     private String title;

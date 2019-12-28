@@ -1,12 +1,12 @@
-package com.example.assingment.ui.facts.viewmodels;
+package com.example.assignment.ui.facts.viewmodels;
 
 import androidx.lifecycle.LiveData;
 import androidx.test.rule.ActivityTestRule;
 import androidx.test.runner.lifecycle.ApplicationLifecycleMonitorRegistry;
 
-import com.example.assingment.MainActivity;
-import com.example.assingment.models.Facts;
-import com.example.assingment.networking.NetworkUtil;
+import com.example.assignment.MainActivity;
+import com.example.assignment.models.Facts;
+import com.example.assignment.networking.NetworkUtil;
 
 import org.junit.After;
 import org.junit.Before;

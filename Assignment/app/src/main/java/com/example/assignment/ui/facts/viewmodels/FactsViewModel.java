@@ -1,12 +1,12 @@
-package com.example.assingment.ui.facts.viewmodels;
+package com.example.assignment.ui.facts.viewmodels;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Transformations;
 import androidx.lifecycle.ViewModel;
 
-import com.example.assingment.models.Facts;
-import com.example.assingment.networking.Repository;
+import com.example.assignment.models.Facts;
+import com.example.assignment.networking.Repository;
 
 public class FactsViewModel extends ViewModel {
     private MutableLiveData<Boolean> isRefreshed=new MutableLiveData<>();

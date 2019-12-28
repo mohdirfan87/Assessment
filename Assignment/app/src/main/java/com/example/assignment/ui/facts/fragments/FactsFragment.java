@@ -1,4 +1,4 @@
-package com.example.assingment.ui.facts.fragments;
+package com.example.assignment.ui.facts.fragments;
 
 import androidx.lifecycle.ViewModelProviders;
 
@@ -18,12 +18,12 @@ import android.view.ViewGroup;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.assingment.R;
-import com.example.assingment.adapter.FactsAdapter;
-import com.example.assingment.models.Rows;
-import com.example.assingment.networking.NetworkUtil;
-import com.example.assingment.res_idle.EspressoIdlingResource;
-import com.example.assingment.ui.facts.viewmodels.FactsViewModel;
+import com.example.assignment.R;
+import com.example.assignment.adapter.FactsAdapter;
+import com.example.assignment.models.Rows;
+import com.example.assignment.networking.NetworkUtil;
+import com.example.assignment.res_idle.EspressoIdlingResource;
+import com.example.assignment.ui.facts.viewmodels.FactsViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

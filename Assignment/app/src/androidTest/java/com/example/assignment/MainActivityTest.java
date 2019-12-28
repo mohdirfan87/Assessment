@@ -1,4 +1,4 @@
-package com.example.assingment;
+package com.example.assignment;
 
 import android.view.View;
 import android.widget.ImageButton;
