@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements FactsFragment.Fra
                     .replace(R.id.container, factsFragment)
                     .commitNow();
         }
+
     }
 
 
